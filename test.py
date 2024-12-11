@@ -1,0 +1,2 @@
+print("ntub")
+print("ntu")
